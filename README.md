@@ -1,2 +1,2 @@
 # OmNamahShivai
-This is a test repositiory
+This is a test repositiory. Good Luck.
